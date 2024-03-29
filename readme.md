@@ -1,5 +1,7 @@
 # Kitlesel Takip Sistemi 
 ### XKeyScore
+![What is it?](Assets/Image/what-is-it.webp)
+
 ## Proje Tanımı
 - Bu proje tüm internet ve cihazları tarayarak, veri elde eden bir sistemdir.
 - Elde edilen veriler farklı amaçlar ile işlenebilir ve kullanılabilir. Ayrıca verilerin işlenmesi ve kullanılması için farklı sistemler ve yazılımlar geliştirilmesi gerekebilir. Bu proje sadece veri toplama ve depolama işlemlerini yapmayı hedefler.
